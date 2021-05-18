@@ -3,7 +3,7 @@
 This project is the final project of the academic course unity & VR.
 Built with Unity & powered by Oculus Quest VR headset.
 
-<img src="https://github.com/BenHurCreations/EscapeRoom/blob/main/Escape%20Room%20Win.PNG" alt="You Win!" width="500" height="220"/>
+<img src="https://github.com/BenHurCreations/EscapeRoom/blob/main/Escape%20Room.PNG" alt="You Win!" width="500" height="220"/>
 
 The VR Escape Room contains 3 different riddles, animations, sound effects & real life experience.
 
