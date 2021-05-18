@@ -11,6 +11,11 @@ The VR Escape Room contains 3 different riddles, animations, sound effects & rea
 
 <img src="https://github.com/BenHurCreations/EscapeRoom/blob/main/Escape%20Room%20Win.PNG" alt="You Win!" width="500" height="220"/>
 
+## The riddles
+1. Finding the clues riddle
+2. The marble wall riddle
+3. The gambit-the-queen riddle
+
 ## Technologies
 1. C# - controllers & activators
 2. Unity - environment & gameobjects
