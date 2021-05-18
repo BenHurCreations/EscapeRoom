@@ -17,3 +17,9 @@ The VR Escape Room contains 3 different riddles, animations, sound effects & rea
 2. Gameobjects interaction - activated by user control
 3. Cinematic UX - a combination of animations, particle effects & camera positions change.
 
+## Build Instructions
+- Download & open with Unity
+- Change build settings to Android
+- Build with unity
+- Connect Oculus Quest headset to your PC
+- Run the build with Oculus Quest
