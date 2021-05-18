@@ -12,6 +12,7 @@ The VR Escape Room contains 3 different riddles, animations, sound effects & rea
 <img src="https://github.com/BenHurCreations/EscapeRoom/blob/main/Escape%20Room%20Win.PNG" alt="You Win!" width="500" height="220"/>
 
 ## Technologies
+<img src="https://github.com/BenHurCreations/Unity/blob/main/Images/C-Sharp.png" alt="C#" width="100" height="50"/>
 1. C# - controllers & activators
 2. Unity - environment & gameobjects
 3. Oculus Quest - supporting headset
