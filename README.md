@@ -5,7 +5,7 @@ Built with Unity & powered by Oculus Quest VR headset.
 
 The VR Escape Room contains 3 different riddles, animations, sound effects & real life experience.
 
-# Technologies
+## Technologies
 1. C# - controllers & activators
 2. Unity - environment & gameobjects
 3. Oculus Quest - supporting headset
